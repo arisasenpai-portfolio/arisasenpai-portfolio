@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arisa
 - 👀 I’m interested in designs and programming
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently focusing on front-end development
 - 💞️ I’m looking to collaborate on indie games
 - 📫 How to reach me: https://linktr.ee/arisasenpai.portfolio
 - 😄 Pronouns: Any
